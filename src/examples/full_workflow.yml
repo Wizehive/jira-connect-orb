@@ -3,7 +3,7 @@ usage:
   version: 2.1
 
   orbs:
-    jira: circleci/jira@x.y.z
+    jira: wizehive/jira-nojq@x.y.z
 
   workflows:
     build-deploy:
